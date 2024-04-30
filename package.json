@@ -1,0 +1,20 @@
+{
+  "name": "fiber-mongo-example",
+  "version": "1.0.0",
+  "description": "tryout react fiber mongo example",
+  "main": "index.js",
+  "scripts": {
+    "watch": "node build/watch.js",
+    "build": "node build/build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Cluyts",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "^0.20.2",
+    "esbuild-sass-plugin": "^3.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3"
+  }
+}
